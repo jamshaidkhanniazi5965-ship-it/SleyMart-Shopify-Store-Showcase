@@ -60,37 +60,52 @@ I was responsible for the **whole build**: theme design and development, banners
 ## 🖼️ Screenshots
 
 ### Home: menswear slide
-![Home, menswear](screenshots/01-home-menswear.jpg)
+![Home: menswear slide](screenshots/01-home-menswear.jpg)
 
-### Home: womenswear slide, ticker and trust bar
-![Home, womenswear](screenshots/02-home-womenswear.jpg)
+### Home: womenswear slide
+![Home: womenswear slide](screenshots/02-home-womenswear.jpg)
+
+### Home: shoes slide
+![Home: shoes slide](screenshots/03-home-shoes.jpg)
 
 ### Shop by category
-![Shop by category](screenshots/03-shop-by-category.jpg)
+![Shop by category](screenshots/04-shop-by-category.jpg)
 
 ### Women's collection
-![Women's collection](screenshots/04-women-collection.jpg)
+![Women's collection](screenshots/05-women-collection.jpg)
+
+### Summer dresses
+![Summer dresses](screenshots/06-summer-dresses.jpg)
+
+### Blazers
+![Blazers](screenshots/07-blazers.jpg)
+
+### Green knits
+![Green knits](screenshots/08-green-knits.jpg)
+
+### Turtlenecks & skirts
+![Turtlenecks & skirts](screenshots/09-turtlenecks-and-skirts.jpg)
 
 ### New arrivals
-![New arrivals](screenshots/05-new-arrivals.jpg)
+![New arrivals](screenshots/10-new-arrivals.jpg)
 
 ### Sweaters & sneakers
-![Sweaters and sneakers](screenshots/06-sweaters-and-sneakers.jpg)
+![Sweaters & sneakers](screenshots/11-sweaters-and-sneakers.jpg)
 
 ### Shoes collection
-![Shoes collection](screenshots/07-shoes-collection.jpg)
+![Shoes collection](screenshots/12-shoes-collection.jpg)
 
 ### Promo banners
-![Promo banners](screenshots/08-promo-banners.jpg)
+![Promo banners](screenshots/13-promo-banners.jpg)
 
 ### Matching looks for two
-![Matching looks](screenshots/09-matching-looks.jpg)
+![Matching looks for two](screenshots/14-matching-looks.jpg)
 
 ### Mobile
-![Mobile views](screenshots/10-mobile.jpg)
+![Mobile](screenshots/15-mobile.jpg)
 
 ### Newsletter & footer
-![Newsletter and footer](screenshots/11-newsletter-and-footer.jpg)
+![Newsletter & footer](screenshots/16-newsletter-and-footer.jpg)
 
 ---
 
